@@ -1,0 +1,6 @@
+# local only: EA source clone, extracted game data, scratch binaries
+src/
+work/
+*.exe
+*.o
+__pycache__/
